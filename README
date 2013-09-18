@@ -1,0 +1,10 @@
+#Tower Defense
+Download Panda3d from www.panda3d.org/download.php
+Install the Runtime for End-Users
+
+In terminal (macs) or another command prompt, change directory to the folder containing towerDefenseMain.py. When in this directory enter the command: ppython towerdefenseMain.py
+
+
+Enjoy the game!
+
+note: Some versions of Panda3d will  display the healthbars inappropriately - just a gray rectangle, no red fill for the health. If this occurs, re-run the program until the red fill displays. This is an unknown bug in the panda3d community, but rarely occurs.
